@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs, React, Typescript**
 
-- 💬 Ask me about **React, Mongodb, SQL, Typescript**
+- 💬 Ask me about **React, NodeJs, Mongodb, SQL, Typescript**
 
 - 📫 How to reach me **yarin.tagouri@gmail.com**
 
